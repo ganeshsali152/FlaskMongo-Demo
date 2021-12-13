@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+instance/
+cg_env/
+app/config.py
+.DS_Store
+.DS_Store?
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
